@@ -51,14 +51,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/bieleal/ffscript/refs
 ```
 
 ### Método 2: Cópia Manual do Código
--- Passo 1: Acesse este link no navegador:
-- **Link direto:** `https://raw.githubusercontent.com/bieleal/ffscript/refs/heads/main/main.lua`
+- Passo 1: Acesse este link no navegador:
+- [![Acessar Código](https://img.shields.io/badge/🔗-ACESSAR_CODIGO_COMPLETO-blue?style=for-the-badge)](https://raw.githubusercontent.com/bieleal/ffscript/refs/heads/main/main.lua)
 
--- Passo 2: Selecione e copie TODO o código da página
+- Passo 2: Selecione e copie TODO o código da página
 
--- Passo 3: Cole no seu executor de scripts
+- Passo 3: Cole no seu executor de scripts
 
--- Passo 4: Execute o script
+- Passo 4: Execute o script
 
 ---
 
