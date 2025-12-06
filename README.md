@@ -29,16 +29,14 @@ Um script avançado para **Free Fire Ilha de Treinamento no Roblox**, desenvolvi
 ---
 
 ## ⚙️ Configurações Técnicas
-- **Versão:** 1.1
+- **Versão atual:** 1.1
 - **Jogo Compatível:** Free Fire Ilha de Treinamento (PlaceID: 134697928735986)
-- **Ativação:** LeftControl para minimizar menu
+- **Ativação:** LeftControl para minimizar e abrir menu
 
 ---
 
 ## 📋 Requisitos
-- Executor de Scripts Roblox
-- Acesso ao jogo Free Fire Ilha de Treinamento
-
+- Executor compativel (Ex: Xeno)
 ---
 
 ## 📥 Onde Conseguir?
